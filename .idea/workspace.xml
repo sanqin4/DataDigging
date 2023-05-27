@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a66a27e9-bbee-4eac-b0c2-21bfee9e9fe1" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/自主学习2/MovieRecommedationSystem.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/自主学习1/dsfile/heart.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dsfile/heart.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/自主学习1/dsfile/tmdb_5000_credits.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dsfile/tmdb_5000_credits.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/自主学习1/dsfile/tmdb_5000_movies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dsfile/tmdb_5000_movies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/自主学习1/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +94,7 @@
       <workItem from="1685010813760" duration="2613000" />
       <workItem from="1685014665213" duration="2356000" />
       <workItem from="1685099343778" duration="4152000" />
-      <workItem from="1685105709326" duration="3906000" />
+      <workItem from="1685105709326" duration="4968000" />
     </task>
     <servers />
   </component>
